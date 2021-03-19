@@ -1,0 +1,113 @@
+commit 1ac555658652808ad05ad996f6253f6dd580a11a
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 18:46:53 2021 +0200
+
+    muutoksia
+
+ tiedostoja/file1.txt                 | 1 -
+ tiedostoja/{file2.txt => file22.txt} | 0
+ 2 files changed, 1 deletion(-)
+
+commit 357a2b4698951e265c95c6d047a4ee6da728c5cd
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 18:39:16 2021 +0200
+
+    lisää kolme tiedostoa
+
+ tiedostoja/file1.txt | 1 +
+ tiedostoja/file2.txt | 2 ++
+ tiedostoja/file3.txt | 2 ++
+ 3 files changed, 5 insertions(+)
+
+commit 769dd2ea60bf9d2e09c9ade8d00de68918c678dc
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 17:28:03 2021 +0200
+
+    lisaa muutoksia
+
+ eka.txt    | 8 ++++++++
+ kolmas.txt | 6 +++++-
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+
+commit 1ad612d55fee58e9b4dab2e19e499d42c80484d0
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 17:24:16 2021 +0200
+
+    renamed tiedosto.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e13e51cafc14548e4263707b4b10305c16e74917
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 17:22:23 2021 +0200
+
+    deleted toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 110cc33c19b1633cf8ad2393de869a2c43272abe
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 17:11:58 2021 +0200
+
+    muutos 2
+
+ tiedosto.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 7c878ac78f42452b9352a78fcff28853b0794379
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 17:10:50 2021 +0200
+
+    muutos
+
+ tiedosto.txt | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit 77179297f74a2d2ec45d357b5bb1898e991f977e
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 16:37:16 2021 +0200
+
+    jokin_tiedosto.txt luotu
+
+ stuff/jokin_tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 59ae59da551eedc46c9d6ba8fe4d00da5677e607
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 16:35:53 2021 +0200
+
+    muutokset
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 95416707a45fec62a7770bc4179d072c6687bf3e
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 16:34:02 2021 +0200
+
+    lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d5f101b24d5a56d0c2831548d88c45073fd64c9e
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 16:29:44 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit acaa767474ca3df04fe5bba27ca2a4150c5aeea5
+Author: Tomi Korkki <ttkorkki@yahoo.com>
+Date:   Fri Mar 19 16:26:06 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
